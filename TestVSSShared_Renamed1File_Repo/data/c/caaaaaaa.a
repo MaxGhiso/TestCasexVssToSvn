@@ -1,0 +1,20 @@
+
+#######################################################
+# ( 90): CodeWarrior for DSP  V5.0
+#######################################################
+INCREMENT Win32_Plugins_DSP56800 metrowks 5.0 permanent uncounted 0B55029BDD60 VENDOR_STRING="CodeWarrior for DSP" HOSTID=ANY ck=79
+INCREMENT Win32_Plugins_DSP56800Comp metrowks 5.0 permanent uncounted 1A525268A909 VENDOR_STRING="CodeWarrior for DSP Compiler" HOSTID=ANY ck=69
+
+FEATURE Win32_CWIDE_Limited metrowks 4.2 permanent uncounted \
+        2C3C43468173 HOSTID=ANY
+FEATURE Win32_CWIDE_Unlimited metrowks 4.2 permanent uncounted \
+        D8C287BC5B1B HOSTID=ANY
+
+
+# This is a placeholder for a CodeWarrior license file.  It is installed here
+# to show the proper format for this file.  It is NOT a license.  To obtain
+# a license, read the License Read Me file in your CodeWarrior installation directory.
+
+
+FEATURE dummykey metrowerks 1.000 permanent uncounted 0335B9E8897F\
+      VENDOR_STRING="Dummy key for placeholder" HOSTID=ANY

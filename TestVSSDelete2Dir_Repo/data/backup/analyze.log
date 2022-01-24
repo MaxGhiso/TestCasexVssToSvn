@@ -1,0 +1,8 @@
+Visual SourceSafe Analyze Version 8.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+"C:\Program Files (x86)\Microsoft Visual SourceSafe\analyze.exe" -x -v3 "C:\ProgettiRele\TestVSSDelete\data"
+
+Database analysis in progress @  6/10/20;17:07.
+Analysis complete @  6/10/20;17:07
+	No errors or inconsistencies found.
